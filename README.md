@@ -4,7 +4,7 @@ An empirical study of how three kinds of environmental noise degrade n-step
 actor-critic learning, across four environments, five update horizons and 50
 seeds per setting.
 
-Joint work with Isaiah Heidt, University of Alberta, CMPUT 655. The report is
+Joint work with **Isaiah Heidt**, University of Alberta, CMPUT 655. The report is
 in [`docs/historical_reports/`](docs/historical_reports/), the training code
 that produced the results is in [`experiments/`](experiments/), and the
 figures are in [`results/`](results/).
