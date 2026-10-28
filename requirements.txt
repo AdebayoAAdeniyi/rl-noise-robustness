@@ -1,0 +1,15 @@
+# The reference implementation in corrected_rl/ runs on current versions.
+numpy
+gymnasium
+
+# The archived experiment scripts additionally need NumPy 1.x and the external
+# gridworld package. See docs/ENVIRONMENT.md for why, and for the three
+# incompatibilities to expect.
+#   numpy<2
+#   Gym-Gridworlds      (Simone Parisi's package; note the capitalised name)
+matplotlib
+tqdm
+
+# The original plotting scripts also use these.
+pandas
+altair

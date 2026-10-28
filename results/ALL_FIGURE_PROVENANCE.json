@@ -1,0 +1,866 @@
+[
+ {
+  "source_zip_member": "project_nstep/output_plots/Penalty-3x3-v0/Penalty-3x3-v0_average_return_combined_barplot_50_0.001.png",
+  "repository_file": "results/figures/Penalty-3x3-v0/Penalty-3x3-v0_average_return_combined_barplot_50_0.001.png",
+  "sha256": "283b9e6a9e5e171fc3ebc26f7773d0c06fc28cb5dfe1f27d217b7a24e51cd28a",
+  "bytes": 166026
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/Penalty-3x3-v0/Penalty-3x3-v0_delta_error_combined_barplot_50_0.001.png",
+  "repository_file": "results/figures/Penalty-3x3-v0/Penalty-3x3-v0_delta_error_combined_barplot_50_0.001.png",
+  "sha256": "3ad3671965aa93334deb97cd9b56c3ca349287fa966bbd5b82bbd1edc94ab3b0",
+  "bytes": 164160
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/Penalty-3x3-v0/Penalty-3x3-v0_episode_combined_barplot_50_0.001.png",
+  "repository_file": "results/figures/Penalty-3x3-v0/Penalty-3x3-v0_episode_combined_barplot_50_0.001.png",
+  "sha256": "f36959d0743b50c2164d7b229ce0873e39111bf9cd50f7280d1e52fbde13b982",
+  "bytes": 158095
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/Penalty-3x3-v0/Penalty-3x3-v0_performance_combined_barplot_50_0.001.png",
+  "repository_file": "results/figures/Penalty-3x3-v0/Penalty-3x3-v0_performance_combined_barplot_50_0.001.png",
+  "sha256": "bb2850ea85adb748a5eae4e12093bc0fc209b94089fe95d691a4bba056d2497e",
+  "bytes": 187537
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/Penalty-3x3-v0/Penalty-3x3-v0_results_exp_ret_combined_barplot_50_0.001.png",
+  "repository_file": "results/figures/Penalty-3x3-v0/Penalty-3x3-v0_results_exp_ret_combined_barplot_50_0.001.png",
+  "sha256": "2db1c1a28bef94ab898d74af0a82b10c0ed019eb3076ea545de963d2c03f3b6a",
+  "bytes": 171734
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/Penalty-3x3-v0/Penalty-3x3-v0_reward_combined_barplot_50_0.001.png",
+  "repository_file": "results/figures/Penalty-3x3-v0/Penalty-3x3-v0_reward_combined_barplot_50_0.001.png",
+  "sha256": "93ffbf53cf489d3fb0ab2e59163030b33035a28f1697c30a9ee6e3befd896053",
+  "bytes": 163076
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/Penalty-3x3-v0/Penalty-3x3-v0_theta_stability_combined_barplot_50_0.001.png",
+  "repository_file": "results/figures/Penalty-3x3-v0/Penalty-3x3-v0_theta_stability_combined_barplot_50_0.001.png",
+  "sha256": "66b36ebbd31f63b6dc8fed22d8b7563a59968b3f823e25538a9330f5c46926e4",
+  "bytes": 180787
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/Penalty-3x3-v0/Penalty-3x3-v0_weights_stability_combined_barplot_50_0.001.png",
+  "repository_file": "results/figures/Penalty-3x3-v0/Penalty-3x3-v0_weights_stability_combined_barplot_50_0.001.png",
+  "sha256": "7f9d690c16604d49116f510e7ca28f63bbad2ff2ab87ec5c62b3fc350abb4c3c",
+  "bytes": 164961
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/Penalty-3x3-v0/Expected return/Penalty-3x3-v0_results_exp_ret_50_0.001_0.0_0.0_0.0_results.png",
+  "repository_file": "results/figures/Penalty-3x3-v0/Penalty-3x3-v0_results_exp_ret_50_0.001_0.0_0.0_0.0_results.png",
+  "sha256": "74559a533d1c531c19e370e628882e4a6a964e5c62ca2bd5e9f25146e9bc5945",
+  "bytes": 136243
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/Penalty-3x3-v0/Expected return/Penalty-3x3-v0_results_exp_ret_50_0.001_0.1_0.0_0.0_results.png",
+  "repository_file": "results/figures/Penalty-3x3-v0/Penalty-3x3-v0_results_exp_ret_50_0.001_0.1_0.0_0.0_results.png",
+  "sha256": "20c5c70439885f45849019967e26e86942b91a828fcb99dd045cb6a1e4585124",
+  "bytes": 142935
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/Penalty-3x3-v0/Expected return/Penalty-3x3-v0_results_exp_ret_50_0.001_0.0_0.1_0.0_results.png",
+  "repository_file": "results/figures/Penalty-3x3-v0/Penalty-3x3-v0_results_exp_ret_50_0.001_0.0_0.1_0.0_results.png",
+  "sha256": "d105c5a6deab657ac976fcaf167098676f493de14d90dff1edf3e2602330ee38",
+  "bytes": 153590
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/Penalty-3x3-v0/Expected return/Penalty-3x3-v0_results_exp_ret_50_0.001_0.0_0.0_0.05_results.png",
+  "repository_file": "results/figures/Penalty-3x3-v0/Penalty-3x3-v0_results_exp_ret_50_0.001_0.0_0.0_0.05_results.png",
+  "sha256": "db62f544a5da3b18804a89734f5d185aba2d2c5a4051f4c60f5af6c9b39c3e79",
+  "bytes": 163552
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/Penalty-3x3-v0/Delta error/Penalty-3x3-v0_delta_error_50_0.001_0.0_0.0_0.0_results.png",
+  "repository_file": "results/figures/Penalty-3x3-v0/Penalty-3x3-v0_delta_error_50_0.001_0.0_0.0_0.0_results.png",
+  "sha256": "241fc7051babde2f0a0fd04f28c69efca50b698461bdfffbed6b295889e5f2f5",
+  "bytes": 287888
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/Penalty-3x3-v0/Delta error/Penalty-3x3-v0_delta_error_50_0.001_0.1_0.0_0.0_results.png",
+  "repository_file": "results/figures/Penalty-3x3-v0/Penalty-3x3-v0_delta_error_50_0.001_0.1_0.0_0.0_results.png",
+  "sha256": "b35b760e85e470f20768f608004a798ace981d51d6a4e6c50ce961d997b763e8",
+  "bytes": 285604
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/Penalty-3x3-v0/Delta error/Penalty-3x3-v0_delta_error_50_0.001_0.0_0.1_0.0_results.png",
+  "repository_file": "results/figures/Penalty-3x3-v0/Penalty-3x3-v0_delta_error_50_0.001_0.0_0.1_0.0_results.png",
+  "sha256": "caba112cb03e427d8f4138478096452c41b2b627cebb923773e30953fff9f035",
+  "bytes": 289199
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/Penalty-3x3-v0/Delta error/Penalty-3x3-v0_delta_error_50_0.001_0.0_0.0_0.05_results.png",
+  "repository_file": "results/figures/Penalty-3x3-v0/Penalty-3x3-v0_delta_error_50_0.001_0.0_0.0_0.05_results.png",
+  "sha256": "64e86b852f3a27299ea37fb16ee842c05f93742cf6d25fd070f2558c2f92f4ef",
+  "bytes": 293698
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/Penalty-3x3-v0/Theta variance/Penalty-3x3-v0_theta_stability_50_0.001_0.0_0.0_0.0_results.png",
+  "repository_file": "results/figures/Penalty-3x3-v0/Penalty-3x3-v0_theta_stability_50_0.001_0.0_0.0_0.0_results.png",
+  "sha256": "86060c1a7dd95d34d87a579cd31369f036c9ce0da6d33c4f68404f2b5e68f393",
+  "bytes": 176716
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/Penalty-3x3-v0/Theta variance/Penalty-3x3-v0_theta_stability_50_0.001_0.1_0.0_0.0_results.png",
+  "repository_file": "results/figures/Penalty-3x3-v0/Penalty-3x3-v0_theta_stability_50_0.001_0.1_0.0_0.0_results.png",
+  "sha256": "55af0175d130bebedd3105fe5073820f69f66feda0fe898080c7fd7d4c2063d2",
+  "bytes": 183505
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/Penalty-3x3-v0/Theta variance/Penalty-3x3-v0_theta_stability_50_0.001_0.0_0.1_0.0_results.png",
+  "repository_file": "results/figures/Penalty-3x3-v0/Penalty-3x3-v0_theta_stability_50_0.001_0.0_0.1_0.0_results.png",
+  "sha256": "23c24568fd975fd9e02dae27938f5513da37ad24d4ee533f58fe8c80d88752db",
+  "bytes": 193609
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/Penalty-3x3-v0/Theta variance/Penalty-3x3-v0_theta_stability_50_0.001_0.0_0.0_0.05_results.png",
+  "repository_file": "results/figures/Penalty-3x3-v0/Penalty-3x3-v0_theta_stability_50_0.001_0.0_0.0_0.05_results.png",
+  "sha256": "548287a0b183e6f5515d1588a6cc0a9301291aa95184e660117fa6dfba9f1f8b",
+  "bytes": 209589
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/Penalty-3x3-v0/Weights variance/Penalty-3x3-v0_weights_stability_50_0.001_0.0_0.0_0.0_results.png",
+  "repository_file": "results/figures/Penalty-3x3-v0/Penalty-3x3-v0_weights_stability_50_0.001_0.0_0.0_0.0_results.png",
+  "sha256": "26f95be7c367ebd03e46e018bdb1d28fec2eba37f5bf782be4087127be79224c",
+  "bytes": 185336
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/Penalty-3x3-v0/Weights variance/Penalty-3x3-v0_weights_stability_50_0.001_0.1_0.0_0.0_results.png",
+  "repository_file": "results/figures/Penalty-3x3-v0/Penalty-3x3-v0_weights_stability_50_0.001_0.1_0.0_0.0_results.png",
+  "sha256": "c31122d1cdae87bfd70c0c806fea44b7dfbbbb056f839c9b70ee142aefb27c77",
+  "bytes": 190308
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/Penalty-3x3-v0/Weights variance/Penalty-3x3-v0_weights_stability_50_0.001_0.0_0.1_0.0_results.png",
+  "repository_file": "results/figures/Penalty-3x3-v0/Penalty-3x3-v0_weights_stability_50_0.001_0.0_0.1_0.0_results.png",
+  "sha256": "95b4763757cb9be9d8e2f61fe4729c0990e125e1bd267488017df5ec57f1c2c6",
+  "bytes": 182612
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/Penalty-3x3-v0/Weights variance/Penalty-3x3-v0_weights_stability_50_0.001_0.0_0.0_0.05_results.png",
+  "repository_file": "results/figures/Penalty-3x3-v0/Penalty-3x3-v0_weights_stability_50_0.001_0.0_0.0_0.05_results.png",
+  "sha256": "9b88e9ae61c51bceb7cfba7aa935d85d50893ed959711f591c5ff43b050f321e",
+  "bytes": 177181
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/DangerMaze-6x6-v0/DangerMaze-6x6-v0_average_return_combined_barplot_50_0.01.png",
+  "repository_file": "results/figures/DangerMaze-6x6-v0/DangerMaze-6x6-v0_average_return_combined_barplot_50_0.01.png",
+  "sha256": "a0b6f5ea89aa8d3b2ac1b6e80f2548e6d2ff797625cb02b189bedacb934441a2",
+  "bytes": 170583
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/DangerMaze-6x6-v0/DangerMaze-6x6-v0_delta_error_combined_barplot_50_0.01.png",
+  "repository_file": "results/figures/DangerMaze-6x6-v0/DangerMaze-6x6-v0_delta_error_combined_barplot_50_0.01.png",
+  "sha256": "5a5ba6cdc0861e1db3374c4960eae43b69fa9a0b9ca5f671700c82acd582a941",
+  "bytes": 164038
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/DangerMaze-6x6-v0/DangerMaze-6x6-v0_episode_combined_barplot_50_0.01.png",
+  "repository_file": "results/figures/DangerMaze-6x6-v0/DangerMaze-6x6-v0_episode_combined_barplot_50_0.01.png",
+  "sha256": "d42ab99fc88e8fd8828afd0fdabf8959a5bf94c1c16d2766e09cbeb1c9db1010",
+  "bytes": 172329
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/DangerMaze-6x6-v0/DangerMaze-6x6-v0_performance_combined_barplot_50_0.01.png",
+  "repository_file": "results/figures/DangerMaze-6x6-v0/DangerMaze-6x6-v0_performance_combined_barplot_50_0.01.png",
+  "sha256": "7035a833216aaec757bd6a4ae290e27e80037fef88dbff6a65ffc30eead031b4",
+  "bytes": 194606
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/DangerMaze-6x6-v0/DangerMaze-6x6-v0_results_exp_ret_combined_barplot_50_0.01.png",
+  "repository_file": "results/figures/DangerMaze-6x6-v0/DangerMaze-6x6-v0_results_exp_ret_combined_barplot_50_0.01.png",
+  "sha256": "02b7970c660ad517b90663a4eda9d67d3369c3e0985207161cb5bdd6b2277e2b",
+  "bytes": 171669
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/DangerMaze-6x6-v0/DangerMaze-6x6-v0_reward_combined_barplot_50_0.01.png",
+  "repository_file": "results/figures/DangerMaze-6x6-v0/DangerMaze-6x6-v0_reward_combined_barplot_50_0.01.png",
+  "sha256": "7bce7d4bfb20c79bf15aacf67bafda9f7b8a9c275be9fb92939cdcbef34c77d3",
+  "bytes": 162465
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/DangerMaze-6x6-v0/DangerMaze-6x6-v0_theta_stability_combined_barplot_50_0.01.png",
+  "repository_file": "results/figures/DangerMaze-6x6-v0/DangerMaze-6x6-v0_theta_stability_combined_barplot_50_0.01.png",
+  "sha256": "8071b6e620494011d4e2554a59234fead7a14d9c4579cb30853c6cbfd7c34463",
+  "bytes": 181710
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/DangerMaze-6x6-v0/DangerMaze-6x6-v0_weights_stability_combined_barplot_50_0.01.png",
+  "repository_file": "results/figures/DangerMaze-6x6-v0/DangerMaze-6x6-v0_weights_stability_combined_barplot_50_0.01.png",
+  "sha256": "1754ce44715472f17eeabd1be8b18b2a88d5dd676079efc324cd06c1c5ba4966",
+  "bytes": 182407
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/DangerMaze-6x6-v0/Expected return/DangerMaze-6x6-v0_results_exp_ret_50_0.01_0.0_0.0_0.0_results.png",
+  "repository_file": "results/figures/DangerMaze-6x6-v0/DangerMaze-6x6-v0_results_exp_ret_50_0.01_0.0_0.0_0.0_results.png",
+  "sha256": "61c4df9944be8ef1c668e83e792d30272692d41c8f27c3ed39a5edb8203f3223",
+  "bytes": 128164
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/DangerMaze-6x6-v0/Expected return/DangerMaze-6x6-v0_results_exp_ret_50_0.01_0.1_0.0_0.0_results.png",
+  "repository_file": "results/figures/DangerMaze-6x6-v0/DangerMaze-6x6-v0_results_exp_ret_50_0.01_0.1_0.0_0.0_results.png",
+  "sha256": "09a9a25ac12307c74d629725766169ef977eec0dd0699b635b84cd3e9564bb13",
+  "bytes": 138079
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/DangerMaze-6x6-v0/Expected return/DangerMaze-6x6-v0_results_exp_ret_50_0.01_0.0_0.1_0.0_results.png",
+  "repository_file": "results/figures/DangerMaze-6x6-v0/DangerMaze-6x6-v0_results_exp_ret_50_0.01_0.0_0.1_0.0_results.png",
+  "sha256": "1aaadfabd91f3d3d66434714204817b15a385d7b15a0db43967905d7753d77f5",
+  "bytes": 201982
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/DangerMaze-6x6-v0/Expected return/DangerMaze-6x6-v0_results_exp_ret_50_0.01_0.0_0.0_0.05_results.png",
+  "repository_file": "results/figures/DangerMaze-6x6-v0/DangerMaze-6x6-v0_results_exp_ret_50_0.01_0.0_0.0_0.05_results.png",
+  "sha256": "8a6e68d10b34588e79f003db72cb9b1280056b0eddb2f2f28ed5d8587e299041",
+  "bytes": 180255
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/DangerMaze-6x6-v0/Delta error/DangerMaze-6x6-v0_delta_error_50_0.01_0.0_0.0_0.0_results.png",
+  "repository_file": "results/figures/DangerMaze-6x6-v0/DangerMaze-6x6-v0_delta_error_50_0.01_0.0_0.0_0.0_results.png",
+  "sha256": "87b752f3fafb7b2191aa25bf9f149916e64e581679d023a952ab2970c88091bb",
+  "bytes": 229903
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/DangerMaze-6x6-v0/Delta error/DangerMaze-6x6-v0_delta_error_50_0.01_0.1_0.0_0.0_results.png",
+  "repository_file": "results/figures/DangerMaze-6x6-v0/DangerMaze-6x6-v0_delta_error_50_0.01_0.1_0.0_0.0_results.png",
+  "sha256": "03606919c4b989ff53e888237c47e81174b380a5b9b2f8500121a803df7fe571",
+  "bytes": 230113
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/DangerMaze-6x6-v0/Delta error/DangerMaze-6x6-v0_delta_error_50_0.01_0.0_0.1_0.0_results.png",
+  "repository_file": "results/figures/DangerMaze-6x6-v0/DangerMaze-6x6-v0_delta_error_50_0.01_0.0_0.1_0.0_results.png",
+  "sha256": "4577fc978f3c2e7ab070b6142c673e184e3da2bba23f5c1235386c49f21ba65b",
+  "bytes": 242614
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/DangerMaze-6x6-v0/Delta error/DangerMaze-6x6-v0_delta_error_50_0.01_0.0_0.0_0.05_results.png",
+  "repository_file": "results/figures/DangerMaze-6x6-v0/DangerMaze-6x6-v0_delta_error_50_0.01_0.0_0.0_0.05_results.png",
+  "sha256": "735b4d631b87f0cc8d21dd4b74fc1ac38fd57dcaaedc516077c1e3ca5fb2abc9",
+  "bytes": 231057
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/DangerMaze-6x6-v0/Theta variance/DangerMaze-6x6-v0_theta_stability_50_0.01_0.0_0.0_0.0_results.png",
+  "repository_file": "results/figures/DangerMaze-6x6-v0/DangerMaze-6x6-v0_theta_stability_50_0.01_0.0_0.0_0.0_results.png",
+  "sha256": "f77f7e353e67043e019c4e030351da6b683d654ba9a609d7c23e53a1037d4df5",
+  "bytes": 177752
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/DangerMaze-6x6-v0/Theta variance/DangerMaze-6x6-v0_theta_stability_50_0.01_0.1_0.0_0.0_results.png",
+  "repository_file": "results/figures/DangerMaze-6x6-v0/DangerMaze-6x6-v0_theta_stability_50_0.01_0.1_0.0_0.0_results.png",
+  "sha256": "b5586ca143045580343b01fbee916f534ebf2e944cbb1230b5465e504d43c67b",
+  "bytes": 191989
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/DangerMaze-6x6-v0/Theta variance/DangerMaze-6x6-v0_theta_stability_50_0.01_0.0_0.1_0.0_results.png",
+  "repository_file": "results/figures/DangerMaze-6x6-v0/DangerMaze-6x6-v0_theta_stability_50_0.01_0.0_0.1_0.0_results.png",
+  "sha256": "04ade6d65d3d330472244444cb82a2a458427b3813967ef9485a8948184cd95b",
+  "bytes": 203548
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/DangerMaze-6x6-v0/Theta variance/DangerMaze-6x6-v0_theta_stability_50_0.01_0.0_0.0_0.05_results.png",
+  "repository_file": "results/figures/DangerMaze-6x6-v0/DangerMaze-6x6-v0_theta_stability_50_0.01_0.0_0.0_0.05_results.png",
+  "sha256": "8a078c56b3b3264a4dbbb076bfa0f24d94560bd1171c24eea5648b074c7cd593",
+  "bytes": 210377
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/DangerMaze-6x6-v0/Weights variance/DangerMaze-6x6-v0_weights_stability_50_0.01_0.0_0.0_0.0_results.png",
+  "repository_file": "results/figures/DangerMaze-6x6-v0/DangerMaze-6x6-v0_weights_stability_50_0.01_0.0_0.0_0.0_results.png",
+  "sha256": "d2e9d2a7d834270da90689fcbf568873b130b2cbabd99795b0e8edd0dbcf78be",
+  "bytes": 170503
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/DangerMaze-6x6-v0/Weights variance/DangerMaze-6x6-v0_weights_stability_50_0.01_0.1_0.0_0.0_results.png",
+  "repository_file": "results/figures/DangerMaze-6x6-v0/DangerMaze-6x6-v0_weights_stability_50_0.01_0.1_0.0_0.0_results.png",
+  "sha256": "25b5d8ea38d48512e2fd21734accbadd1f0a14f993783f54f10a0d1b2f01110c",
+  "bytes": 170141
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/DangerMaze-6x6-v0/Weights variance/DangerMaze-6x6-v0_weights_stability_50_0.01_0.0_0.1_0.0_results.png",
+  "repository_file": "results/figures/DangerMaze-6x6-v0/DangerMaze-6x6-v0_weights_stability_50_0.01_0.0_0.1_0.0_results.png",
+  "sha256": "61a1da9657fa99c2ef8b3f275a8435cb0a5410172d585e36a61e112b380321d3",
+  "bytes": 180540
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/DangerMaze-6x6-v0/Weights variance/DangerMaze-6x6-v0_weights_stability_50_0.01_0.0_0.0_0.05_results.png",
+  "repository_file": "results/figures/DangerMaze-6x6-v0/DangerMaze-6x6-v0_weights_stability_50_0.01_0.0_0.0_0.05_results.png",
+  "sha256": "bf66f9f0990e2e4cd1c562cda78e5dba7c61d7c464c7c6dbdf7b21af2820fc1c",
+  "bytes": 134531
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CliffWalk-4x12-v0/CliffWalk-4x12-v0_average_return_combined_barplot_50_0.001.png",
+  "repository_file": "results/figures/CliffWalk-4x12-v0/CliffWalk-4x12-v0_average_return_combined_barplot_50_0.001.png",
+  "sha256": "beb1c6bc163e033b0547808739ba3658162fbc9aa278a8478400357446c6edef",
+  "bytes": 176820
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CliffWalk-4x12-v0/CliffWalk-4x12-v0_delta_error_combined_barplot_50_0.001.png",
+  "repository_file": "results/figures/CliffWalk-4x12-v0/CliffWalk-4x12-v0_delta_error_combined_barplot_50_0.001.png",
+  "sha256": "39f65906e37d7029138b618aafd936103dc4f7993d02d725695c2783da583640",
+  "bytes": 174498
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CliffWalk-4x12-v0/CliffWalk-4x12-v0_episode_combined_barplot_50_0.001.png",
+  "repository_file": "results/figures/CliffWalk-4x12-v0/CliffWalk-4x12-v0_episode_combined_barplot_50_0.001.png",
+  "sha256": "7f1ce428927501af5240181ae4b972feb947085783492c8b268bcb91623a507d",
+  "bytes": 176300
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CliffWalk-4x12-v0/CliffWalk-4x12-v0_performance_combined_barplot_50_0.001.png",
+  "repository_file": "results/figures/CliffWalk-4x12-v0/CliffWalk-4x12-v0_performance_combined_barplot_50_0.001.png",
+  "sha256": "d4e097a39ac53f9b4fb6139a7f9bd55533b7fb382d0690b4b8690b74b07b5768",
+  "bytes": 200207
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CliffWalk-4x12-v0/CliffWalk-4x12-v0_results_exp_ret_combined_barplot_50_0.001.png",
+  "repository_file": "results/figures/CliffWalk-4x12-v0/CliffWalk-4x12-v0_results_exp_ret_combined_barplot_50_0.001.png",
+  "sha256": "b3b71ce2d6bed40cc6ff5f465ae20646743992f8d736e9eccbf0fd8b98f73f29",
+  "bytes": 164543
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CliffWalk-4x12-v0/CliffWalk-4x12-v0_reward_combined_barplot_50_0.001.png",
+  "repository_file": "results/figures/CliffWalk-4x12-v0/CliffWalk-4x12-v0_reward_combined_barplot_50_0.001.png",
+  "sha256": "2fd10c2a58086e67b9eff0bf3cfbcbdd4263a6c03379420ca8c185232daeaa7a",
+  "bytes": 173508
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CliffWalk-4x12-v0/CliffWalk-4x12-v0_theta_stability_combined_barplot_50_0.001.png",
+  "repository_file": "results/figures/CliffWalk-4x12-v0/CliffWalk-4x12-v0_theta_stability_combined_barplot_50_0.001.png",
+  "sha256": "da6a53e4f5c0ca6ffdc56139d7fd430ce8bf6c1d7d70a20eca0808fca4984868",
+  "bytes": 187573
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CliffWalk-4x12-v0/CliffWalk-4x12-v0_weights_stability_combined_barplot_50_0.001.png",
+  "repository_file": "results/figures/CliffWalk-4x12-v0/CliffWalk-4x12-v0_weights_stability_combined_barplot_50_0.001.png",
+  "sha256": "38cb037f816c65264a04283891bd6bca771147486dd6054cee9c0d06dafc4397",
+  "bytes": 180313
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CliffWalk-4x12-v0/Expected return/CliffWalk-4x12-v0_results_exp_ret_50_0.001_0.0_0.0_0.0_results.png",
+  "repository_file": "results/figures/CliffWalk-4x12-v0/CliffWalk-4x12-v0_results_exp_ret_50_0.001_0.0_0.0_0.0_results.png",
+  "sha256": "8cd79844d5f70db25be46795e78bd870d007c3979ba01d3b898241516c323eaf",
+  "bytes": 153511
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CliffWalk-4x12-v0/Expected return/CliffWalk-4x12-v0_results_exp_ret_50_0.001_0.1_0.0_0.0_results.png",
+  "repository_file": "results/figures/CliffWalk-4x12-v0/CliffWalk-4x12-v0_results_exp_ret_50_0.001_0.1_0.0_0.0_results.png",
+  "sha256": "3b86c83f08223c1c63258d8fe9ba9732398680234ee911e965f0b43918d4f13f",
+  "bytes": 148616
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CliffWalk-4x12-v0/Expected return/CliffWalk-4x12-v0_results_exp_ret_50_0.001_0.0_0.1_0.0_results.png",
+  "repository_file": "results/figures/CliffWalk-4x12-v0/CliffWalk-4x12-v0_results_exp_ret_50_0.001_0.0_0.1_0.0_results.png",
+  "sha256": "b9bd7a5cb60af9dd4d032d3fcbcda7977543ca11347870cdfd6165e1661bbc36",
+  "bytes": 146597
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CliffWalk-4x12-v0/Expected return/CliffWalk-4x12-v0_results_exp_ret_50_0.001_0.0_0.0_0.05_results.png",
+  "repository_file": "results/figures/CliffWalk-4x12-v0/CliffWalk-4x12-v0_results_exp_ret_50_0.001_0.0_0.0_0.05_results.png",
+  "sha256": "9532c874a1096e8e7e2d9b7091466560d1fd7e29a1c342f443cc310fc59c42dc",
+  "bytes": 95259
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CliffWalk-4x12-v0/Delta error/CliffWalk-4x12-v0_delta_error_50_0.001_0.0_0.0_0.0_results.png",
+  "repository_file": "results/figures/CliffWalk-4x12-v0/CliffWalk-4x12-v0_delta_error_50_0.001_0.0_0.0_0.0_results.png",
+  "sha256": "5be6111f5bc2248bcdc6c16b3ec82da2fdb231dc8b49e7c5083fb9b26e36c972",
+  "bytes": 279963
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CliffWalk-4x12-v0/Delta error/CliffWalk-4x12-v0_delta_error_50_0.001_0.1_0.0_0.0_results.png",
+  "repository_file": "results/figures/CliffWalk-4x12-v0/CliffWalk-4x12-v0_delta_error_50_0.001_0.1_0.0_0.0_results.png",
+  "sha256": "f381067753eee2a1e3e7ae177973b07243be1e0bf53c85f487fa4065eafeaa76",
+  "bytes": 279745
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CliffWalk-4x12-v0/Delta error/CliffWalk-4x12-v0_delta_error_50_0.001_0.0_0.1_0.0_results.png",
+  "repository_file": "results/figures/CliffWalk-4x12-v0/CliffWalk-4x12-v0_delta_error_50_0.001_0.0_0.1_0.0_results.png",
+  "sha256": "ec6bd4a3fa0eb23d7fda9fcd54a9c028b17e7437fe54e0ca3b17333c14588eba",
+  "bytes": 285312
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CliffWalk-4x12-v0/Delta error/CliffWalk-4x12-v0_delta_error_50_0.001_0.0_0.0_0.05_results.png",
+  "repository_file": "results/figures/CliffWalk-4x12-v0/CliffWalk-4x12-v0_delta_error_50_0.001_0.0_0.0_0.05_results.png",
+  "sha256": "8feccd99101610eb357448a2eefe5e2af097f2a222de1ca45609c89f70e39e61",
+  "bytes": 282275
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CliffWalk-4x12-v0/Theta variance/CliffWalk-4x12-v0_theta_stability_50_0.001_0.0_0.0_0.0_results.png",
+  "repository_file": "results/figures/CliffWalk-4x12-v0/CliffWalk-4x12-v0_theta_stability_50_0.001_0.0_0.0_0.0_results.png",
+  "sha256": "c0cc5cccbd3593d4ffa922dbed2fd6663768a01287096fc9a184a56141d3a3c9",
+  "bytes": 183448
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CliffWalk-4x12-v0/Theta variance/CliffWalk-4x12-v0_theta_stability_50_0.001_0.1_0.0_0.0_results.png",
+  "repository_file": "results/figures/CliffWalk-4x12-v0/CliffWalk-4x12-v0_theta_stability_50_0.001_0.1_0.0_0.0_results.png",
+  "sha256": "d2e00b0e4aa1d27b1e85d42c8f7d7b9e9bf69b10a6e876d8a722bce2a2086e2e",
+  "bytes": 183716
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CliffWalk-4x12-v0/Theta variance/CliffWalk-4x12-v0_theta_stability_50_0.001_0.0_0.1_0.0_results.png",
+  "repository_file": "results/figures/CliffWalk-4x12-v0/CliffWalk-4x12-v0_theta_stability_50_0.001_0.0_0.1_0.0_results.png",
+  "sha256": "c607752f87ed22ee1dc90d81b2769da7ef7dc7de08fc386b87e66f1141964210",
+  "bytes": 183097
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CliffWalk-4x12-v0/Theta variance/CliffWalk-4x12-v0_theta_stability_50_0.001_0.0_0.0_0.05_results.png",
+  "repository_file": "results/figures/CliffWalk-4x12-v0/CliffWalk-4x12-v0_theta_stability_50_0.001_0.0_0.0_0.05_results.png",
+  "sha256": "ee40332bff9f8359927d5048019cc995f0d18dc2be56096cc0712b05c808c1c6",
+  "bytes": 193098
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CliffWalk-4x12-v0/Weights variance/CliffWalk-4x12-v0_weights_stability_50_0.001_0.0_0.0_0.0_results.png",
+  "repository_file": "results/figures/CliffWalk-4x12-v0/CliffWalk-4x12-v0_weights_stability_50_0.001_0.0_0.0_0.0_results.png",
+  "sha256": "055fe64a6fe7b1c625310b359c7d1a1425fe4d28bbf6680379db85523661f8ce",
+  "bytes": 168152
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CliffWalk-4x12-v0/Weights variance/CliffWalk-4x12-v0_weights_stability_50_0.001_0.1_0.0_0.0_results.png",
+  "repository_file": "results/figures/CliffWalk-4x12-v0/CliffWalk-4x12-v0_weights_stability_50_0.001_0.1_0.0_0.0_results.png",
+  "sha256": "76290f13796deb346c75fbdb063916b226af3c9c68fcfe8c7df79f03821de05e",
+  "bytes": 168953
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CliffWalk-4x12-v0/Weights variance/CliffWalk-4x12-v0_weights_stability_50_0.001_0.0_0.1_0.0_results.png",
+  "repository_file": "results/figures/CliffWalk-4x12-v0/CliffWalk-4x12-v0_weights_stability_50_0.001_0.0_0.1_0.0_results.png",
+  "sha256": "fda3d3d79dd92cbe5782be07c07387287dbdb91999209282e945afe68e54705e",
+  "bytes": 171328
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CliffWalk-4x12-v0/Weights variance/CliffWalk-4x12-v0_weights_stability_50_0.001_0.0_0.0_0.05_results.png",
+  "repository_file": "results/figures/CliffWalk-4x12-v0/CliffWalk-4x12-v0_weights_stability_50_0.001_0.0_0.0_0.05_results.png",
+  "sha256": "5401fbaef16861c3f0f13bf8cc39464a0a2099fc90cdd805d95129b59a46f7bd",
+  "bytes": 171182
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CliffWalk-5x5-v0/CliffWalk-5x5-v0_average_return_combined_barplot_50_0.001.png",
+  "repository_file": "results/figures/CliffWalk-5x5-v0/CliffWalk-5x5-v0_average_return_combined_barplot_50_0.001.png",
+  "sha256": "b0a183561552f50ff93264a707ffc91192af1ed79fb7545931445c823a7d54cb",
+  "bytes": 174271
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CliffWalk-5x5-v0/CliffWalk-5x5-v0_delta_error_combined_barplot_50_0.001.png",
+  "repository_file": "results/figures/CliffWalk-5x5-v0/CliffWalk-5x5-v0_delta_error_combined_barplot_50_0.001.png",
+  "sha256": "cc82c6b5571bb8e3680a1dfa645445a05fc3e988ef470940fa41afd4009dfbd1",
+  "bytes": 174766
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CliffWalk-5x5-v0/CliffWalk-5x5-v0_episode_combined_barplot_50_0.001.png",
+  "repository_file": "results/figures/CliffWalk-5x5-v0/CliffWalk-5x5-v0_episode_combined_barplot_50_0.001.png",
+  "sha256": "3ce4f15d9980ac474af8b718d1f5723aa5b65d47543960fc2fdd76704bb9abef",
+  "bytes": 176093
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CliffWalk-5x5-v0/CliffWalk-5x5-v0_performance_combined_barplot_50_0.001.png",
+  "repository_file": "results/figures/CliffWalk-5x5-v0/CliffWalk-5x5-v0_performance_combined_barplot_50_0.001.png",
+  "sha256": "f0960ca37f16f134b4d98b0d0244cf17308797a93a86ee5e1978e2999a908cb5",
+  "bytes": 188954
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CliffWalk-5x5-v0/CliffWalk-5x5-v0_results_exp_ret_combined_barplot_50_0.001.png",
+  "repository_file": "results/figures/CliffWalk-5x5-v0/CliffWalk-5x5-v0_results_exp_ret_combined_barplot_50_0.001.png",
+  "sha256": "124784203838e3cc8977d50f29d1b5db847dfbb0744cd4525f7683f87d9cb10d",
+  "bytes": 169706
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CliffWalk-5x5-v0/CliffWalk-5x5-v0_reward_combined_barplot_50_0.001.png",
+  "repository_file": "results/figures/CliffWalk-5x5-v0/CliffWalk-5x5-v0_reward_combined_barplot_50_0.001.png",
+  "sha256": "8ea2675a9d7ca279cbb9cc73d2ab135934f480c49ce4dd9f1fba1a9e6f4c9802",
+  "bytes": 173038
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CliffWalk-5x5-v0/CliffWalk-5x5-v0_theta_stability_combined_barplot_50_0.001.png",
+  "repository_file": "results/figures/CliffWalk-5x5-v0/CliffWalk-5x5-v0_theta_stability_combined_barplot_50_0.001.png",
+  "sha256": "b45f52aa755e24229cb98fd27a0b10ed63f623f02b722549ae22d865a4929820",
+  "bytes": 207563
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CliffWalk-5x5-v0/CliffWalk-5x5-v0_weights_stability_combined_barplot_50_0.001.png",
+  "repository_file": "results/figures/CliffWalk-5x5-v0/CliffWalk-5x5-v0_weights_stability_combined_barplot_50_0.001.png",
+  "sha256": "902155870e9e9f19d927303379edc19385f1e087a76a3e369a3af125a3da6121",
+  "bytes": 180155
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CliffWalk-5x5-v0/Expected return/CliffWalk-5x5-v0_results_exp_ret_50_0.001_0.0_0.0_0.0_results.png",
+  "repository_file": "results/figures/CliffWalk-5x5-v0/CliffWalk-5x5-v0_results_exp_ret_50_0.001_0.0_0.0_0.0_results.png",
+  "sha256": "3f22cb2573ffa58c6cf828396b3c61f6bbf2f014def3c61b300d4aec3bd84ab8",
+  "bytes": 150533
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CliffWalk-5x5-v0/Expected return/CliffWalk-5x5-v0_results_exp_ret_50_0.001_0.1_0.0_0.0_results.png",
+  "repository_file": "results/figures/CliffWalk-5x5-v0/CliffWalk-5x5-v0_results_exp_ret_50_0.001_0.1_0.0_0.0_results.png",
+  "sha256": "dd83160fb420e513e5a653c660bcab23f3bdc55ca89e4303192b6e4d1a2a1da8",
+  "bytes": 149258
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CliffWalk-5x5-v0/Expected return/CliffWalk-5x5-v0_results_exp_ret_50_0.001_0.0_0.1_0.0_results.png",
+  "repository_file": "results/figures/CliffWalk-5x5-v0/CliffWalk-5x5-v0_results_exp_ret_50_0.001_0.0_0.1_0.0_results.png",
+  "sha256": "1cd7d9a3b8345c7a10826098a41fa4a87fd01b48b0eb025555e797939b46c052",
+  "bytes": 153709
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CliffWalk-5x5-v0/Expected return/CliffWalk-5x5-v0_results_exp_ret_50_0.001_0.0_0.0_0.05_results.png",
+  "repository_file": "results/figures/CliffWalk-5x5-v0/CliffWalk-5x5-v0_results_exp_ret_50_0.001_0.0_0.0_0.05_results.png",
+  "sha256": "5d75c85a94427858dfe8417d78ae8ac3ddc57efc4cb41d03c104df9a6cb303ab",
+  "bytes": 159574
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CliffWalk-5x5-v0/Delta error/CliffWalk-5x5-v0_delta_error_50_0.001_0.0_0.0_0.0_results.png",
+  "repository_file": "results/figures/CliffWalk-5x5-v0/CliffWalk-5x5-v0_delta_error_50_0.001_0.0_0.0_0.0_results.png",
+  "sha256": "46c2fe543ef7df6ed05cc48d93a4d9b120bc5be100271df783b1a669a7d3618c",
+  "bytes": 307539
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CliffWalk-5x5-v0/Delta error/CliffWalk-5x5-v0_delta_error_50_0.001_0.1_0.0_0.0_results.png",
+  "repository_file": "results/figures/CliffWalk-5x5-v0/CliffWalk-5x5-v0_delta_error_50_0.001_0.1_0.0_0.0_results.png",
+  "sha256": "dfa5e50785b335dab878c63463f092a97f45ed3fd62e1078fbc45ebf45bd6379",
+  "bytes": 304710
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CliffWalk-5x5-v0/Delta error/CliffWalk-5x5-v0_delta_error_50_0.001_0.0_0.1_0.0_results.png",
+  "repository_file": "results/figures/CliffWalk-5x5-v0/CliffWalk-5x5-v0_delta_error_50_0.001_0.0_0.1_0.0_results.png",
+  "sha256": "a5dbf8c8fe29091210924e51ed2aa30dd6c4a9448fed4b929e2b4494959c8051",
+  "bytes": 307821
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CliffWalk-5x5-v0/Delta error/CliffWalk-5x5-v0_delta_error_50_0.001_0.0_0.0_0.05_results.png",
+  "repository_file": "results/figures/CliffWalk-5x5-v0/CliffWalk-5x5-v0_delta_error_50_0.001_0.0_0.0_0.05_results.png",
+  "sha256": "9ab617fe76e793b71f4a5a4986b1d7846bc0b5fb2af4c9fa960d6c5cea7b56b1",
+  "bytes": 307419
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CliffWalk-5x5-v0/Theta variance/CliffWalk-5x5-v0_theta_stability_50_0.001_0.0_0.0_0.0_results.png",
+  "repository_file": "results/figures/CliffWalk-5x5-v0/CliffWalk-5x5-v0_theta_stability_50_0.001_0.0_0.0_0.0_results.png",
+  "sha256": "8376434e9539e56d85fec481fbe644c4b65809fef953561b6aed238cf25ce922",
+  "bytes": 141282
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CliffWalk-5x5-v0/Theta variance/CliffWalk-5x5-v0_theta_stability_50_0.001_0.1_0.0_0.0_results.png",
+  "repository_file": "results/figures/CliffWalk-5x5-v0/CliffWalk-5x5-v0_theta_stability_50_0.001_0.1_0.0_0.0_results.png",
+  "sha256": "13ac5f2516314cd0db76cb72750aaf6f2c81550d8f2225a4c29384681c4db364",
+  "bytes": 140989
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CliffWalk-5x5-v0/Theta variance/CliffWalk-5x5-v0_theta_stability_50_0.001_0.0_0.1_0.0_results.png",
+  "repository_file": "results/figures/CliffWalk-5x5-v0/CliffWalk-5x5-v0_theta_stability_50_0.001_0.0_0.1_0.0_results.png",
+  "sha256": "68e3c8c03d04ca1d8ce4878e962d779a27868bb7ab8d3f886a25f80bb0c24709",
+  "bytes": 146386
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CliffWalk-5x5-v0/Theta variance/CliffWalk-5x5-v0_theta_stability_50_0.001_0.0_0.0_0.05_results.png",
+  "repository_file": "results/figures/CliffWalk-5x5-v0/CliffWalk-5x5-v0_theta_stability_50_0.001_0.0_0.0_0.05_results.png",
+  "sha256": "4f438e87e934b3036c0edb3c5ad571d29e13b5ded418139d43eb33414fbec279",
+  "bytes": 148520
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CliffWalk-5x5-v0/Weights variance/CliffWalk-5x5-v0_weights_stability_50_0.001_0.0_0.0_0.0_results.png",
+  "repository_file": "results/figures/CliffWalk-5x5-v0/CliffWalk-5x5-v0_weights_stability_50_0.001_0.0_0.0_0.0_results.png",
+  "sha256": "6dbf998998dbf518f315250c3b041e60688e0ab9f423873721e7f378d8783477",
+  "bytes": 185786
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CliffWalk-5x5-v0/Weights variance/CliffWalk-5x5-v0_weights_stability_50_0.001_0.1_0.0_0.0_results.png",
+  "repository_file": "results/figures/CliffWalk-5x5-v0/CliffWalk-5x5-v0_weights_stability_50_0.001_0.1_0.0_0.0_results.png",
+  "sha256": "ed08393dbcede7421c051d8d3013f452b190670dffcee8944a9438194b8e1ae9",
+  "bytes": 185849
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CliffWalk-5x5-v0/Weights variance/CliffWalk-5x5-v0_weights_stability_50_0.001_0.0_0.1_0.0_results.png",
+  "repository_file": "results/figures/CliffWalk-5x5-v0/CliffWalk-5x5-v0_weights_stability_50_0.001_0.0_0.1_0.0_results.png",
+  "sha256": "f14c5fcf3379f8e4dbd9119dba1c5d699a647aed98d4df90b5ee56d126735240",
+  "bytes": 186458
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CliffWalk-5x5-v0/Weights variance/CliffWalk-5x5-v0_weights_stability_50_0.001_0.0_0.0_0.05_results.png",
+  "repository_file": "results/figures/CliffWalk-5x5-v0/CliffWalk-5x5-v0_weights_stability_50_0.001_0.0_0.0_0.05_results.png",
+  "sha256": "6418909a5f634d25566cfe3e4ea9e4f361ad86dc16188986db2f7b916ce7513c",
+  "bytes": 192713
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CartPole-v1/CartPole-v1_average_return_combined_barplot_50_0.01.png",
+  "repository_file": "results/figures/CartPole-v1/CartPole-v1_average_return_combined_barplot_50_0.01.png",
+  "sha256": "4a4c055d5093ddd32ead58278f8c6a4fa31d9961dd02219a91193c32cf7f3b38",
+  "bytes": 177011
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CartPole-v1/CartPole-v1_delta_error_combined_barplot_50_0.01.png",
+  "repository_file": "results/figures/CartPole-v1/CartPole-v1_delta_error_combined_barplot_50_0.01.png",
+  "sha256": "5b95f9f2d34012405fcf1d112ab225c35d4579247ace9cb877f604dc105a1953",
+  "bytes": 164549
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CartPole-v1/CartPole-v1_episode_combined_barplot_50_0.01.png",
+  "repository_file": "results/figures/CartPole-v1/CartPole-v1_episode_combined_barplot_50_0.01.png",
+  "sha256": "aab09bfe974d483a185856c47023bbd76def5ba0615d848c634f40a987695135",
+  "bytes": 176212
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CartPole-v1/CartPole-v1_performance_combined_barplot_50_0.01.png",
+  "repository_file": "results/figures/CartPole-v1/CartPole-v1_performance_combined_barplot_50_0.01.png",
+  "sha256": "11a936181bbd9b0a9596d110c81d756ce6e596c15d79032106d63c5e4be74f1b",
+  "bytes": 193806
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CartPole-v1/CartPole-v1_results_exp_ret_combined_barplot_50_0.01.png",
+  "repository_file": "results/figures/CartPole-v1/CartPole-v1_results_exp_ret_combined_barplot_50_0.01.png",
+  "sha256": "0fa239ce1939643be8e34e414753d252238225bd63ca72c3d12d8c4bda23ce30",
+  "bytes": 182600
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CartPole-v1/CartPole-v1_reward_combined_barplot_50_0.01.png",
+  "repository_file": "results/figures/CartPole-v1/CartPole-v1_reward_combined_barplot_50_0.01.png",
+  "sha256": "ba29a9e1a2d9dbc69258a7fd0159a06578bf6923dc6d86d53f9f961ab5dc3350",
+  "bytes": 165340
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CartPole-v1/CartPole-v1_theta_stability_combined_barplot_50_0.01.png",
+  "repository_file": "results/figures/CartPole-v1/CartPole-v1_theta_stability_combined_barplot_50_0.01.png",
+  "sha256": "d6c943fec7c16d53aaf767b934102c4a4938d3d10682a011f5cdba88a2ad0057",
+  "bytes": 187861
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CartPole-v1/CartPole-v1_weights_stability_combined_barplot_50_0.01.png",
+  "repository_file": "results/figures/CartPole-v1/CartPole-v1_weights_stability_combined_barplot_50_0.01.png",
+  "sha256": "681a8f2f4146f91d856abb0a5479793b768b3469d7bca432d087f0d2e0fdaeea",
+  "bytes": 179655
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CartPole-v1/Expected return/CartPole-v1_results_exp_ret_50_0.01_0.0_0.0_0.0_results.png",
+  "repository_file": "results/figures/CartPole-v1/CartPole-v1_results_exp_ret_50_0.01_0.0_0.0_0.0_results.png",
+  "sha256": "7ffa86474e904b8139e94371cdc3392f9b5bd63f32db3dfa92fdf4eaae6c7cc2",
+  "bytes": 273300
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CartPole-v1/Expected return/CartPole-v1_results_exp_ret_50_0.01_0.1_0.0_0.0_results.png",
+  "repository_file": "results/figures/CartPole-v1/CartPole-v1_results_exp_ret_50_0.01_0.1_0.0_0.0_results.png",
+  "sha256": "9c21e02343efb53def466ff7976ffef5b665c9757cd210b042b2f0e812b38764",
+  "bytes": 272700
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CartPole-v1/Expected return/CartPole-v1_results_exp_ret_50_0.01_0.0_0.1_0.0_results.png",
+  "repository_file": "results/figures/CartPole-v1/CartPole-v1_results_exp_ret_50_0.01_0.0_0.1_0.0_results.png",
+  "sha256": "8d8238c175ce896ebf47f29ca8d7194a136ce6483a51343bd4a27a42fc2605d0",
+  "bytes": 267562
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CartPole-v1/Expected return/CartPole-v1_results_exp_ret_50_0.01_0.0_0.0_0.05_results.png",
+  "repository_file": "results/figures/CartPole-v1/CartPole-v1_results_exp_ret_50_0.01_0.0_0.0_0.05_results.png",
+  "sha256": "d20b6b40312a7815425ce256ce72ab2f453fcabcca48b45f3b64ea198c3f6ccb",
+  "bytes": 379326
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CartPole-v1/Delta error/CartPole-v1_delta_error_50_0.01_0.0_0.0_0.0_results.png",
+  "repository_file": "results/figures/CartPole-v1/CartPole-v1_delta_error_50_0.01_0.0_0.0_0.0_results.png",
+  "sha256": "dd2ba927fb96841897547123d5ae30334d94d98b46a2896620836bf4defad012",
+  "bytes": 387087
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CartPole-v1/Delta error/CartPole-v1_delta_error_50_0.01_0.1_0.0_0.0_results.png",
+  "repository_file": "results/figures/CartPole-v1/CartPole-v1_delta_error_50_0.01_0.1_0.0_0.0_results.png",
+  "sha256": "89ce5e66ae44465cc76755a6d1374e600dc9022e0d16ed13f246a8c3e728854b",
+  "bytes": 372635
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CartPole-v1/Delta error/CartPole-v1_delta_error_50_0.01_0.0_0.1_0.0_results.png",
+  "repository_file": "results/figures/CartPole-v1/CartPole-v1_delta_error_50_0.01_0.0_0.1_0.0_results.png",
+  "sha256": "75f5d17ebdaa255f06db663a83a33aefdf5352b605884ab45dc7609430b1df5c",
+  "bytes": 370911
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CartPole-v1/Delta error/CartPole-v1_delta_error_50_0.01_0.0_0.0_0.05_results.png",
+  "repository_file": "results/figures/CartPole-v1/CartPole-v1_delta_error_50_0.01_0.0_0.0_0.05_results.png",
+  "sha256": "c199e1b9a1d780d9fa3eed9830e5213b4cb9916055cb7dc35dcc9e18bb07be30",
+  "bytes": 385799
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CartPole-v1/Theta variance/CartPole-v1_theta_stability_50_0.01_0.0_0.0_0.0_results.png",
+  "repository_file": "results/figures/CartPole-v1/CartPole-v1_theta_stability_50_0.01_0.0_0.0_0.0_results.png",
+  "sha256": "0acddd1e6752ef2b1ecfd92efe8ebab3646a916ddaedc9f115ec83a593e4c1da",
+  "bytes": 132567
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CartPole-v1/Theta variance/CartPole-v1_theta_stability_50_0.01_0.1_0.0_0.0_results.png",
+  "repository_file": "results/figures/CartPole-v1/CartPole-v1_theta_stability_50_0.01_0.1_0.0_0.0_results.png",
+  "sha256": "65a71450ec1e42a65b45ccfaeb82820e32e31af106ccea0ca52dc3bb3d02b807",
+  "bytes": 133413
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CartPole-v1/Theta variance/CartPole-v1_theta_stability_50_0.01_0.0_0.1_0.0_results.png",
+  "repository_file": "results/figures/CartPole-v1/CartPole-v1_theta_stability_50_0.01_0.0_0.1_0.0_results.png",
+  "sha256": "da7c7dc4ff48e1cb85f6480e225c007b722debe48b7b8172a947134ca5ab6cc6",
+  "bytes": 150603
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CartPole-v1/Theta variance/CartPole-v1_theta_stability_50_0.01_0.0_0.0_0.05_results.png",
+  "repository_file": "results/figures/CartPole-v1/CartPole-v1_theta_stability_50_0.01_0.0_0.0_0.05_results.png",
+  "sha256": "5e5dbfe16e552db4bb8a3e0287170799f1ac70d18874554af193e6fc7c404fe2",
+  "bytes": 174866
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CartPole-v1/Weights variance/CartPole-v1_weights_stability_50_0.01_0.0_0.0_0.0_results.png",
+  "repository_file": "results/figures/CartPole-v1/CartPole-v1_weights_stability_50_0.01_0.0_0.0_0.0_results.png",
+  "sha256": "918c0c348b53c1fbfe10660ae2d0fbeb3206058ad9cfde06c32044505e1e205a",
+  "bytes": 206612
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CartPole-v1/Weights variance/CartPole-v1_weights_stability_50_0.01_0.1_0.0_0.0_results.png",
+  "repository_file": "results/figures/CartPole-v1/CartPole-v1_weights_stability_50_0.01_0.1_0.0_0.0_results.png",
+  "sha256": "2f6da22422f93c6d8186e9e0d31106a09b6b6d813d51850c6fcf2671d4312700",
+  "bytes": 206174
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CartPole-v1/Weights variance/CartPole-v1_weights_stability_50_0.01_0.0_0.1_0.0_results.png",
+  "repository_file": "results/figures/CartPole-v1/CartPole-v1_weights_stability_50_0.01_0.0_0.1_0.0_results.png",
+  "sha256": "934b940a0767f146d9eba07db23eca5c0b40e023354d3e44d17e58f78d5637c3",
+  "bytes": 201868
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/CartPole-v1/Weights variance/CartPole-v1_weights_stability_50_0.01_0.0_0.0_0.05_results.png",
+  "repository_file": "results/figures/CartPole-v1/CartPole-v1_weights_stability_50_0.01_0.0_0.0_0.05_results.png",
+  "sha256": "57b8f00210021de84785b8b5a45ef3f95de0794e04d6e11a9f1189492f6d0a15",
+  "bytes": 204161
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/MountainCar-v0/MountainCar-v0_average_return_combined_barplot_50_0.01.png",
+  "repository_file": "results/figures/MountainCar-v0/MountainCar-v0_average_return_combined_barplot_50_0.01.png",
+  "sha256": "1a0418138903d6ac40dbc2f77751c8bb0f897a88f6c0ad996fc364869867e127",
+  "bytes": 181791
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/MountainCar-v0/MountainCar-v0_delta_error_combined_barplot_50_0.01.png",
+  "repository_file": "results/figures/MountainCar-v0/MountainCar-v0_delta_error_combined_barplot_50_0.01.png",
+  "sha256": "819f9ddbd928c6be07e19541a08e5240b8dac2fd5ede9dd92ce931a392d93aab",
+  "bytes": 167105
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/MountainCar-v0/MountainCar-v0_episode_combined_barplot_50_0.01.png",
+  "repository_file": "results/figures/MountainCar-v0/MountainCar-v0_episode_combined_barplot_50_0.01.png",
+  "sha256": "4fc7f431e25c492d504a90c481aa07a3aecccaf699e14d78d0808056846e7f6f",
+  "bytes": 177193
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/MountainCar-v0/MountainCar-v0_performance_combined_barplot_50_0.01.png",
+  "repository_file": "results/figures/MountainCar-v0/MountainCar-v0_performance_combined_barplot_50_0.01.png",
+  "sha256": "9618a6a27f6986fb24ff4133e4dd1b61ba06d12e308b5f5531a09cc2f20da6ac",
+  "bytes": 198723
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/MountainCar-v0/MountainCar-v0_results_exp_ret_combined_barplot_50_0.01.png",
+  "repository_file": "results/figures/MountainCar-v0/MountainCar-v0_results_exp_ret_combined_barplot_50_0.01.png",
+  "sha256": "a39bc5105f4c36e19e0577fd5c1a8860c958528fc42fb3d34cbbe9f7a331c035",
+  "bytes": 183273
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/MountainCar-v0/MountainCar-v0_reward_combined_barplot_50_0.01.png",
+  "repository_file": "results/figures/MountainCar-v0/MountainCar-v0_reward_combined_barplot_50_0.01.png",
+  "sha256": "ace6cc75801e314d73115e6661536e78846c378d1f7f0432c38d2deb7976bbe3",
+  "bytes": 166804
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/MountainCar-v0/MountainCar-v0_theta_stability_combined_barplot_50_0.01.png",
+  "repository_file": "results/figures/MountainCar-v0/MountainCar-v0_theta_stability_combined_barplot_50_0.01.png",
+  "sha256": "e96b717c0bb67bf1df4eb07d2862534c3e1ed5fb33b8be3786e7eb03f396091b",
+  "bytes": 175221
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/MountainCar-v0/MountainCar-v0_weights_stability_combined_barplot_50_0.01.png",
+  "repository_file": "results/figures/MountainCar-v0/MountainCar-v0_weights_stability_combined_barplot_50_0.01.png",
+  "sha256": "39cd330a8f8400dd45b3eb60e5dadf002aa1a48dd78174f5c6a97472ea55bbed",
+  "bytes": 185912
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/MountainCar-v0/Expected return/MountainCar-v0_results_exp_ret_50_0.01_0.0_0.0_0.0_results.png",
+  "repository_file": "results/figures/MountainCar-v0/MountainCar-v0_results_exp_ret_50_0.01_0.0_0.0_0.0_results.png",
+  "sha256": "1a5bab668c52d7388e05a5d46bf8cf93b8bcea7112a52cec4fa3ccde9d22cea9",
+  "bytes": 274940
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/MountainCar-v0/Expected return/MountainCar-v0_results_exp_ret_50_0.01_0.1_0.0_0.0_results.png",
+  "repository_file": "results/figures/MountainCar-v0/MountainCar-v0_results_exp_ret_50_0.01_0.1_0.0_0.0_results.png",
+  "sha256": "a2e11355e6305a5af667c6c401ada45071456633bff3d8a4d44cbca37aed7066",
+  "bytes": 253274
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/MountainCar-v0/Expected return/MountainCar-v0_results_exp_ret_50_0.01_0.0_0.1_0.0_results.png",
+  "repository_file": "results/figures/MountainCar-v0/MountainCar-v0_results_exp_ret_50_0.01_0.0_0.1_0.0_results.png",
+  "sha256": "a758c59ecf5de2dfe2f0400db7008ace7a874262398b131a8c547d45ddd87462",
+  "bytes": 262397
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/MountainCar-v0/Expected return/MountainCar-v0_results_exp_ret_50_0.01_0.0_0.0_0.05_results.png",
+  "repository_file": "results/figures/MountainCar-v0/MountainCar-v0_results_exp_ret_50_0.01_0.0_0.0_0.05_results.png",
+  "sha256": "9a5247531d667c5e5764a84bca80532d05d05e0d08d84d4e728b41c574e7bf78",
+  "bytes": 415008
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/MountainCar-v0/Delta error/MountainCar-v0_delta_error_50_0.01_0.0_0.0_0.0_results.png",
+  "repository_file": "results/figures/MountainCar-v0/MountainCar-v0_delta_error_50_0.01_0.0_0.0_0.0_results.png",
+  "sha256": "7b901592742659b4f24c2354740cdf3155a695c486602bc68a4c004598ce9b12",
+  "bytes": 102195
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/MountainCar-v0/Delta error/MountainCar-v0_delta_error_50_0.01_0.1_0.0_0.0_results.png",
+  "repository_file": "results/figures/MountainCar-v0/MountainCar-v0_delta_error_50_0.01_0.1_0.0_0.0_results.png",
+  "sha256": "b62713eaf9f1e4f11adc3d402bbeeeedac703c7505524cc3e4d3b499b15213e0",
+  "bytes": 102566
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/MountainCar-v0/Delta error/MountainCar-v0_delta_error_50_0.01_0.0_0.1_0.0_results.png",
+  "repository_file": "results/figures/MountainCar-v0/MountainCar-v0_delta_error_50_0.01_0.0_0.1_0.0_results.png",
+  "sha256": "c5e6f25d36aec373938050205f7e74a7cf3af50994c00351c74a2c224b5f9d40",
+  "bytes": 103525
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/MountainCar-v0/Delta error/MountainCar-v0_delta_error_50_0.01_0.0_0.0_0.05_results.png",
+  "repository_file": "results/figures/MountainCar-v0/MountainCar-v0_delta_error_50_0.01_0.0_0.0_0.05_results.png",
+  "sha256": "855ea935645699823daac2398f22cb5786dba07d98a7d5d0ac321dc69e6009df",
+  "bytes": 100459
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/MountainCar-v0/Theta variance/MountainCar-v0_theta_stability_50_0.01_0.0_0.0_0.0_results.png",
+  "repository_file": "results/figures/MountainCar-v0/MountainCar-v0_theta_stability_50_0.01_0.0_0.0_0.0_results.png",
+  "sha256": "2135393a071ca4b6f960a29738477f356f142ff0ca268ff665e2cc8475fa5865",
+  "bytes": 185658
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/MountainCar-v0/Theta variance/MountainCar-v0_theta_stability_50_0.01_0.1_0.0_0.0_results.png",
+  "repository_file": "results/figures/MountainCar-v0/MountainCar-v0_theta_stability_50_0.01_0.1_0.0_0.0_results.png",
+  "sha256": "657c708882f3c287e0f75bed669aeeb5501ef02b624807878fc6e8de9b41347b",
+  "bytes": 184901
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/MountainCar-v0/Theta variance/MountainCar-v0_theta_stability_50_0.01_0.0_0.1_0.0_results.png",
+  "repository_file": "results/figures/MountainCar-v0/MountainCar-v0_theta_stability_50_0.01_0.0_0.1_0.0_results.png",
+  "sha256": "0c1d835e4339347d17fd0bf65e995a195a6f9f6db11037a9fb3e1bdc4d107201",
+  "bytes": 179292
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/MountainCar-v0/Theta variance/MountainCar-v0_theta_stability_50_0.01_0.0_0.0_0.05_results.png",
+  "repository_file": "results/figures/MountainCar-v0/MountainCar-v0_theta_stability_50_0.01_0.0_0.0_0.05_results.png",
+  "sha256": "0eda8ba33258ec3b86894c0c5eacc2295aebeedb201b4f223cdaeede36656145",
+  "bytes": 193047
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/MountainCar-v0/Weights variance/MountainCar-v0_weights_stability_50_0.01_0.0_0.0_0.0_results.png",
+  "repository_file": "results/figures/MountainCar-v0/MountainCar-v0_weights_stability_50_0.01_0.0_0.0_0.0_results.png",
+  "sha256": "737179740272e95bc311d954cead998920ce47b670afbaa7271b5dce0806c9b9",
+  "bytes": 161613
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/MountainCar-v0/Weights variance/MountainCar-v0_weights_stability_50_0.01_0.1_0.0_0.0_results.png",
+  "repository_file": "results/figures/MountainCar-v0/MountainCar-v0_weights_stability_50_0.01_0.1_0.0_0.0_results.png",
+  "sha256": "c65028aca69bb4c54ffcf48b9f874df4ba4669f1c00975597cef9fbc60d33898",
+  "bytes": 163421
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/MountainCar-v0/Weights variance/MountainCar-v0_weights_stability_50_0.01_0.0_0.1_0.0_results.png",
+  "repository_file": "results/figures/MountainCar-v0/MountainCar-v0_weights_stability_50_0.01_0.0_0.1_0.0_results.png",
+  "sha256": "ecec1af90de7da54462fb3ae26db17b68f1ef1a05295c68cb7096ba298a8fb97",
+  "bytes": 158482
+ },
+ {
+  "source_zip_member": "project_nstep/output_plots/MountainCar-v0/Weights variance/MountainCar-v0_weights_stability_50_0.01_0.0_0.0_0.05_results.png",
+  "repository_file": "results/figures/MountainCar-v0/MountainCar-v0_weights_stability_50_0.01_0.0_0.0_0.05_results.png",
+  "sha256": "994182ef9d4bb4a1e41917d7137dede320fdd199b20a290227e831734507bf18",
+  "bytes": 155498
+ }
+]

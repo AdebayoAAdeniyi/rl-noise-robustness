@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=65"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rl-noise-robustness-research"
+version = "0.2.0"
+description = "Action, observation and reward noise in n-step actor-critic reinforcement learning"
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.24"]
+
+[project.optional-dependencies]
+train = ["gymnasium>=0.29", "matplotlib>=3.7", "tqdm"]
+# The archived experiment scripts need NumPy 1.x and the external gridworld
+# package; see docs/ENVIRONMENT.md. Kept out of the default extras because
+# pinning NumPy below 2 would constrain the reference implementation too.
+archived = ["numpy<2", "gymnasium>=0.29", "Gym-Gridworlds", "matplotlib>=3.7", "tqdm"]
+plots = ["matplotlib>=3.7", "pandas", "altair"]
+
+[tool.setuptools.packages.find]
+include = ["corrected_rl*", "analysis*", "experiments*"]
